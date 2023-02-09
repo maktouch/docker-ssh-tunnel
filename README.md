@@ -1,4 +1,4 @@
-# Easy tunnelling in Docker
+# Easy SSH tunnels in Docker
 
 This container is useful if you want to provide easy tunneling to some servers. 
 
